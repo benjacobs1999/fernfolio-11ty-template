@@ -11,4 +11,4 @@ eleventyNavigation:
 ### Who am I.
 
 
-![Ben Jacobs](/src/assets/img/ben.webp "Ben Jacobs")
+![Ben Jacobs](src/assets/img/ben.webp "Ben Jacobs")
