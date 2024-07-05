@@ -9,6 +9,3 @@ eleventyNavigation:
   order: 1
 ---
 ### Who am I.
-
-
-![Ben Jacobs](src/assets/img/ben.webp "Ben Jacobs")
