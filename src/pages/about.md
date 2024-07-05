@@ -11,4 +11,4 @@ eleventyNavigation:
 ### Who am I.
 
 
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![Fern in Hand](/src/assets/img/ben.webp "Fern in Hand")
